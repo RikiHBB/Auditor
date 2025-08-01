@@ -1,0 +1,5 @@
+{
+  "name": "AI Voice Call Audit",
+  "description": "An AI-powered web application that automates the auditing of voice calls, providing insights into call quality, agent performance, customer sentiment, and compliance.",
+  "requestFramePermissions": []
+}
